@@ -1,6 +1,5 @@
-
-```markdown
 # 🌿 Soil Image Classification Project
+```markdown
 
 This repository contains solutions for two challenges:  
 - **Challenge-1**: Soil Type Classification (Alluvial, Red, Black, Clay)  
