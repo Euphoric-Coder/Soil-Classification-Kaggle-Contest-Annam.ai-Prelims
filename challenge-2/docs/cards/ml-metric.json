@@ -1,0 +1,11 @@
+{
+    "_comment": "This JSON file contains the ml-metrics for Challenge-2 (using pseudo-ground-truth)",
+    "Name": "Sagnik Dey",
+    "Kaggle Username": "sagnikd7",
+    "Team Name": "NA (Individual)",
+    "f1 scores": {
+        "_comment": "Here are the class-wise F1 scores for binary classification (1=Soil, 0=Not Soil)",
+        "soil": 0.9581,
+        "not_soil": 0.9592
+    }
+}
